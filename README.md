@@ -4,7 +4,7 @@ ETL is a type of data integration that refers to the three steps (extract, trans
 
 ETL Project - The Best 50 SuperHero Movies of All Type and their SuperHeroes. (data was collected in March, 2020)
 
-Project Proposal - To create a data set that will united Best 50 SuperHero Movies info with movie's SuperHero info.
+Project Proposal - To create a data set that will unite The Best 50 SuperHero Movies info with movie's SuperHero info.
 
 Extract Data - I - there are four sources of data that I extracted from:
 

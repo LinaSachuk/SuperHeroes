@@ -39,4 +39,6 @@ Transform Data - the type of transformation needed for this data:
 
    Jupyter Notebook HTML version with whole ETL process available under link ETL-Project(Jupyter Notebook) in the App navigation bar .
 
+![Screenshot](Screenshots/6.png)
+
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)

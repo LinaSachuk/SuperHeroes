@@ -26,7 +26,6 @@ Transform Data - the type of transformation needed for this data:
       6. data visualization
 
 ![Screenshot](Screenshots/3.png)
-
 ![Screenshot](Screenshots/4.png)
 
 ![Screenshot](Screenshots/5.png)

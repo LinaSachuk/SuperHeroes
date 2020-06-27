@@ -26,17 +26,18 @@ Transform Data - the type of transformation needed for this data:
       6. data visualization
 
 ![Screenshot](Screenshots/3.png)
+
 ![Screenshot](Screenshots/4.png)
 
 ![Screenshot](Screenshots/5.png)
 
-7. Created a Flask Application. The Best 50 SuperHero Movies connected to their SuperHero and displayed them next to each other in the app.
+III -Load the final dataset and use it in the Flask Application. The Best 50 SuperHero Movies connected to their SuperHero and displayed them next to each other in the app.
 
 ![Screenshot](Screenshots/1.png)
 
-8. Deployed my App to Heroku : https://super-heroes.herokuapp.com/
+Deployed my App to Heroku : https://super-heroes.herokuapp.com/
 
-   Jupyter Notebook HTML version with whole ETL process available under link ETL-Project(Jupyter Notebook) located in the App Navigation Bar.
+Jupyter Notebook HTML version with whole ETL process available under link ETL-Project(Jupyter Notebook) located in the App Navigation Bar.
 
 ![Screenshot](Screenshots/6.png)
 

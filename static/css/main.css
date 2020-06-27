@@ -1,0 +1,62 @@
+/* Have you tried doing a full reload in your browser? 
+It's possible that it's caching the CSS files. To do a full reload in Chome or Firefox,
+ just hold down the Shift key while clicking the reload button. */
+
+body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Raleway", sans-serif;
+  
+  }
+  
+  body, html {
+    margin-top: 2%;
+    height: 100%;
+    line-height: 1.8;
+  }
+
+  .w3-top{
+    opacity: 0.7;
+  }
+
+h1{
+color:  rgba(155, 38, 142, 0.9);
+}
+
+  h3{
+    padding: 1%;
+    color: rgb(102, 51, 153, 0.7);
+  }
+  
+  h4{
+    padding: 1%;
+    margin: 3%;
+   
+  }
+
+  h5{
+    margin: 1%;
+  }
+
+  .container{
+    /* margin: 50px; */
+    padding-top: 4%;
+    background-color: rgb(102, 51, 153, 0.2);
+
+  }
+
+  .row{
+    margin: 7%;
+  }
+
+  .fa{
+    color: rgb(102, 51, 153, 0.5);
+  }
+
+  img{
+    margin: 0 5% 0 5%;
+    width: 90%;
+    height: 86%;
+  }
+
+  .plot{
+    margin-top: -10% !important;
+  }

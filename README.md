@@ -1,4 +1,4 @@
-# Flask App with Jupyter's Notebook HTML version
+# Flask App with Jupyter Notebook HTML version
 
 ETL is a type of data integration that refers to the three steps (extract, transform, load) used to blend data from multiple sources. It's often used to build a data warehouse. During this process, data is taken (extracted) from a source system, converted (transformed) into a format that can be analyzed, and stored (loaded) into a data warehouse or other system.
 

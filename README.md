@@ -32,7 +32,7 @@ Transform Data - the type of transformation needed for this data:
 
 ![Screenshot](Screenshots/5.png)
 
-7.  data virtualization (created a Flask Application)
+7.  data virtualization (created a Flask Application). Get the Best 50 SuperHero Movies , connected each movie to the SuperHero and displayed them next to each other in the app.
 
 ![Screenshot](Screenshots/1.png)
 

@@ -63,15 +63,6 @@ def index():
     return render_template("index.html", list=sorted_list)
 
 
-# @app.route('/ETL')
-# def etl():
-#      return render_template("ETL-Project.html")
-
-
-# @app.route('/<string:page_name>/')
-# def render_static("ETL-Project.html"):
-#     return render_template('%s.html' % "ETL-Project.html")
-
 @app.route('/ETL')
 def etl():
     return app.send_static_file('ETL-Project.html')

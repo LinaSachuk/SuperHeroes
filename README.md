@@ -10,7 +10,7 @@ Extract Data - I - there are four sources of data that I extracted from:
 
      1. superhero API (to get SuperHeroes info)
      2. data scraped from the web (to ger best 50 SuperHeroes Movies)
-     3. omdb API (to get detail info about best 50 SuperHeroes movies)
+     3. Omdb API (to get detail info about best 50 SuperHeroes movies)
      4. python package - IMDbPY (to get info about main Actor and the main Role(SuperHero))
 
 ![Screenshot](Screenshots/2.png)

@@ -36,7 +36,7 @@ Transform Data - the type of transformation needed for this data:
 
 ![Screenshot](Screenshots/1.png)
 
-8. Deployed my App to Heroku : https://etl-project-super-heroes.herokuapp.com/
+8. Deployed my App to Heroku : https://super-heroes.herokuapp.com/
 
    Jupyter Notebook HTML version with whole ETL process available under link ETL-Project(Jupyter Notebook) in the App navigation bar .
 

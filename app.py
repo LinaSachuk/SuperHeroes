@@ -1,3 +1,6 @@
+# hard reload (command + shift + R)
+
+
 import os
 import csv
 from flask import request
@@ -65,7 +68,7 @@ def index():
 
 @app.route('/ETL')
 def etl():
-    return app.send_static_file('ETL-Project.html')
+    return app.send_static_file('ETL.html')
 
 
 if __name__ == "__main__":

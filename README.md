@@ -1,29 +1,42 @@
 # Flask App with Jupyter Notebook HTML version
 
-ETL is a type of data integration that refers to the three steps (extract, transform, load) used to blend data from multiple sources. It's often used to build a data warehouse. During this process, data is taken (extracted) from a source system, converted (transformed) into a format that can be analyzed, and stored (loaded) into a data warehouse or other system.
+ETL Project - The Best 50 Superhero Movies
 
-ETL Project - The Best 50 SuperHero Movies of All Type and their SuperHeroes. (data was collected in March, 2020)
+ETL is a type of data integration that refers to the three steps (extract, transform, load) used to blend data from multiple sources. It's often used to build a data warehouse. During this process, data is taken (extracted) from a source system, converted (transformed) into a format that can be analyzed, and stored (loaded) into a data warehouse or other system. Extract, load, transform (ELT) is an alternate but related approach designed to push processing down to the database for improved performance.
 
-Project Proposal - To create a data set that will unite The Best 50 SuperHero Movies info with movie's SuperHero info.
+Project Proposal
+Combine the Best 50 Superhero Movies dataset with The Superhero dataset for the analysis and data visualization.
+3 questions relating to the data:
+For the 3 questions, I decided to focus exclusively on American superheroes and movies.
 
-Extract Data - I - there are four sources of data that I extracted from:
+1. Is there a gender bias in superhero movie industry?
 
-     1. superhero API (to get SuperHeroes info)
-     2. data scraped from the web (to ger best 50 SuperHeroes Movies)
-     3. Omdb API (to get detail info about best 50 SuperHeroes movies)
-     4. python package - IMDbPY (to get info about main Actor and the main Role(SuperHero))
+2. What are the most important variables in predicting movie's profitability.
+
+3. For production companies that were acquired, how much on average has each superhero earned?
+
+Extract Data:
+Data sources:
+• Superheroes API
+• Web Scraping
+• Movies API
+• Python package - IMDbPY
 
 ![Screenshot](Screenshots/2.png)
 
-II - there are four ways how the data was formatted: 1. CSV 2. XLSX 3. pgAdmin 4. HTML
-Transform Data - the type of transformation needed for this data:
+Data formats:
+• CSV
+• XLSX
+• pgAdmin
+• HTML
 
-      1. cleaning
-      2. joining
-      3. filtering
-      4. aggregating (groupby, sort, average, count)
-      5. deleting columns
-      6. data visualization
+Transform Data:
+• cleaning
+• joining
+• filtering
+• aggregating (group by, sort, average, count)
+• deleting columns
+• data visualization
 
 ![Screenshot](Screenshots/3.png)
 
@@ -31,7 +44,8 @@ Transform Data - the type of transformation needed for this data:
 
 ![Screenshot](Screenshots/5.png)
 
-III -Load the final dataset and use it in the Flask Application. The Best 50 SuperHero Movies connected to their SuperHero and displayed them next to each other in the app.
+Load the final dataset. Flask Application:
+render images for each movie, superhero and a short movie summary from the database.
 
 ![Screenshot](Screenshots/1.png)
 
